@@ -27,7 +27,7 @@ public class Order {
         }
 
         Menu menu = new Menu();
-        menu.Coffee;
+//        menu.;
 
         System.out.println("메뉴를 선택하세요 : ");
         System.out.println(menu);
