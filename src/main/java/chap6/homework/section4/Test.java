@@ -7,7 +7,7 @@ public class Test {
     private String name;
     private java.util.Date enrollDate;
 
-    public User() {
+    public void User() {
 
         System.out.println("User 클래스의 기본 생성자 호출함...");
     }

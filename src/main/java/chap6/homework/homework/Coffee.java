@@ -5,7 +5,7 @@ public class Coffee {
 // tes선택시 옵션 HOT/ICE
 
     Menu menu = new Menu();
-    menu.;
+//    menu.;
 
 
 
