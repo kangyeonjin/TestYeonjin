@@ -4,9 +4,4 @@ public class Coffee {
 // 커피 선택시 옵션결정(HOT/ICE), 및 수량확인, 사이즈
 // tes선택시 옵션 HOT/ICE
 
-    Menu menu = new Menu();
-//    menu.;
-
-
-
 }

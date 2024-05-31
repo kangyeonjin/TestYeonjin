@@ -10,7 +10,6 @@ public class Baristar {
 // 취소선택시 user에게 메세지가 감, 생산선택시 주문서 출력
 
     /*주문에 따라 커피를 만들어라(커피객체 반환)*/
-    private int inventory = 10;
 
 
 }
