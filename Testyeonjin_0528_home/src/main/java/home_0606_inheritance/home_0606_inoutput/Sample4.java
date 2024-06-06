@@ -1,4 +1,4 @@
-package home_0606_inoutput;
+package home_0606_inheritance.home_0606_inoutput;
 
 import java.io.FileOutputStream;
 import java.io.FileWriter;
