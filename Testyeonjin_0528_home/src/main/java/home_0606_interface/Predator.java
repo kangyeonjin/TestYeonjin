@@ -1,12 +1,12 @@
 package home_0606_interface;
 
-public interface Predator {
-   String getFood();
+public abstract class Predator extends Animal{
+    abstract String getFood();
 
-   default void printFood(){
+   void printFood(){
       System.out.println(getFood());
    }
-   int LEG_COUNT =4;
+   static int LEG_COUNT =4;  //추상클래스의 상수는 static선언이 필요함
    static int speed(){
       return  LEG_COUNT*30;
    }

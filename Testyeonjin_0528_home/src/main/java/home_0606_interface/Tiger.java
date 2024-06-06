@@ -1,6 +1,6 @@
 package home_0606_interface;
 
-public class Tiger extends Animal implements BrkablePredator {
+public class Tiger extends Predator implements Barkable {
  public String getFood(){
      return "banana";
  }
